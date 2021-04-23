@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
 
+#JUCE LIB
+/JuceLibraryCode
+
+# build folder
+/Builds
+
 # Compiled Object files
 *.slo
 *.lo
